@@ -1,0 +1,3 @@
+1234
+Dopisanie treści na końcu pliku
+Pozwala zapisac w pliku tekst w formacie, 50 liczba, 165,400000 lub 165,40 zmienno przecinkowa, oraz string zapisany
